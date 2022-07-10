@@ -1,3 +1,5 @@
+-i http://localhost:3141/testuser/dev/
+
 pydantic==1.9.1
 pandas==1.4.3
-text_utils@git+ssh://git@github.com/Beatris/text_utils.git@main
+text_utils==0.0.2
