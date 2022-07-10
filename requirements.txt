@@ -1,0 +1,3 @@
+pydantic==1.9.1
+pandas==1.4.3
+text_utils@git+ssh://git@github.com/Beatris/text_utils.git@main
