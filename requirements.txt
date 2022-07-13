@@ -1,5 +1,5 @@
--i http://localhost:3141/testuser/dev/
+-i http://localhost:3141/testuser/prod/
 
 pydantic==1.9.1
 pandas==1.4.3
-text_utils==0.0.2
+text_utils==0.0.1
